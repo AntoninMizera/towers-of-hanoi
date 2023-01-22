@@ -5,9 +5,8 @@ HanoiTowers.HanoiTower tower = new(4);
 
 System.Console.WriteLine(tower.ToString());
 System.Console.WriteLine("----");
-
 tower.Move();
-
+System.Console.WriteLine("----");
 System.Console.WriteLine(tower);
 
 System.Console.WriteLine("end!");
