@@ -43,7 +43,8 @@ namespace HanoiTowers
                         B <-> C
 
                     Vzdy se mezi dvema disky provadi jen tah, ktery je platny,
-                    tj. 
+                    tzn. ze se disk presouva na prazdnou pozici, nebo se mensi
+                    disk presouva na disk vetsi.
 
                     viz https://en.wikipedia.org/wiki/Tower_of_Hanoi#Simpler_statement_of_iterative_solution
                 */
